@@ -45,9 +45,6 @@ Relacionamentos:
 
 - Todos usam **ManyToOne** com **Unidade**
 
-Exemplo:
+---
 
-- Unidade 1 ---- N Alunos
-- Unidade 1 ---- N Funcionários
-- Unidade 1 ---- N Equipamentos
-
+> Este projeto demonstra a base para criação de APIs REST simples e escaláveis com Spring Boot.
