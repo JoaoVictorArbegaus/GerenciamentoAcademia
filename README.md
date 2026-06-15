@@ -1,11 +1,11 @@
-# 📌 Gerenciamento de Academia – API REST com Spring Boot
+#  Gerenciamento de Academia – API REST com Spring Boot
 
 Este projeto consiste em uma **API REST** desenvolvida com **Java + Spring Boot** para gerenciamento de academias, incluindo controle de **Unidades**, **Alunos**, **Funcionários** e **Equipamentos**.  
 O objetivo foi criar uma aplicação organizada, escalável e alinhada às boas práticas de arquitetura backend.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java 17**
 - **Spring Boot**
@@ -19,7 +19,7 @@ O objetivo foi criar uma aplicação organizada, escalável e alinhada às boas 
 
 ---
 
-## 📂 Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 A estrutura segue uma arquitetura em camadas:
 
@@ -32,7 +32,7 @@ A estrutura segue uma arquitetura em camadas:
 
 ---
 
-## 🗄️ Modelo do Banco de Dados
+##  Modelo do Banco de Dados
 
 Entidades principais:
 
